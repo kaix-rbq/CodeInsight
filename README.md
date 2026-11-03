@@ -54,7 +54,7 @@ streamlit run app.py
 
 浏览器打开 `http://localhost:8501`。
 
-![演示1](C:\Users\ASUS\Desktop\CodeInsight\preview\演示1.png)
+![演示1](preview\演示1.png)
 
 > 未配置 API Key 时应用会自动进入**离线演示模式**：可以载入三份内置示例代码，
 > 查看预置报告并体验完整界面；自定义代码需要配置真实模型。
@@ -125,7 +125,7 @@ CODEINSIGHT_PROVIDER=demo
 
 **配置API KEY后，在线模型生成的报告：**
 
-![演示2](C:\Users\ASUS\Desktop\CodeInsight\preview\演示2.png)
+![演示2](preview\演示2.png)
 
 离线演示模式下，示例按钮对应三份固定样例：
 
